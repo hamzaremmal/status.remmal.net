@@ -7,6 +7,9 @@ sites:
   - name: Status Page
     url: https://status.remmal.net
 
+assignees:
+  - hamzaremmal
+
 status-website:
   cname: status.remmal.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
