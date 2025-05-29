@@ -4,9 +4,9 @@
     "url": "https://remmal.net",
     "icon": "https://icons.duckduckgo.com/ip3/remmal.net.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 179,
     "timeMonth": 193,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   },
   {
     "name": "Status Page",
     "url": "https://status.remmal.net",
     "icon": "https://icons.duckduckgo.com/ip3/status.remmal.net.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 203,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-03-02": 7
     }
   }
