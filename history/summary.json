@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/remmal.net.ico",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.41%",
+    "uptimeDay": "48.10%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "99.41%",
     "time": 184,
-    "timeDay": 173,
-    "timeWeek": 179,
-    "timeMonth": 193,
+    "timeDay": 0,
+    "timeWeek": 160,
+    "timeMonth": 194,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-30": 96,
+      "2025-05-29": 651
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.remmal.net.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.41%",
+    "uptimeDay": "48.10%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "99.41%",
     "time": 189,
-    "timeDay": 153,
-    "timeWeek": 215,
+    "timeDay": 0,
+    "timeWeek": 195,
     "timeMonth": 203,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-05-29": 0,
+      "2025-05-30": 96,
+      "2025-05-29": 651,
       "2025-03-02": 7
     }
   }
